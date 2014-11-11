@@ -1,0 +1,6 @@
+The game loads the {mobname}.txt file by each line. the filename is the mobname.
+The lines are as follows:
+1:health
+2:mininmum damage
+3.max damage
+4.chance to miss. the chance to miss is out of 100, so a 40 would mean a 40% chance to miss.

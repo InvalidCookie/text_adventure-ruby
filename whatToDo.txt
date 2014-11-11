@@ -1,0 +1,24 @@
+~~~~~has to read files from data
+~~~create monsters and items from filename
+~~when fetched will load contents
+
+~~lots of loading data
+-monster data need to load data ex. "health = 20" "damage = 0-3"
+-make drops have chance, ex. "iron sword = 45" "potionx5 = 67"
+
+~~make equipment and weapons
+-needs some sort of command, like 'equip'
+-equip iron sword
+
+~~items need 'tags'
+-each item has a data number ex. iron sword will be 1, as well as weapons in the range of 1000, equipment 2000, naterials 3000, etc
+
+~~"slots"
+pants
+helm
+weapon
+shield
+
+~~commands
+-equip <itemname> |or| equip <itemname> <slotname>
+-unequip <itemanme>

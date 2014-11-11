@@ -1,0 +1,2 @@
+Iron sword = 55;
+Potion = 100;
